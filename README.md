@@ -1,16 +1,136 @@
-## Hi there 👋
+<!-- Hero Section -->
+<div align="center">
+  
+# 👋🏽 **Howdy!**
+## My name is Justin, but you can call me J Lew!
+### **Linux System Administrator | Automation | RHEL | DevOps Foundations**
 
+ Modern infrastructure. Clean automation. Enterprise reliability.  
+ Documenting the journey, building the skills, and leveling up every day.
+
+</div>
+
+---
+
+## 🚀 About  
+Linux System Administrator focused on Red Hat–based systems, automation, and infrastructure engineering.  
+Skilled in system administration, troubleshooting, configuration management, and secure operations.  
+Driven by a strong commitment to continuous learning, documentation, and operational excellence.
+
+---
+
+# 🛠️ **Tech Stack**
+<div align="center">
+
+<!-- OS -->
+<img src="https://img.shields.io/badge/RHEL-cc0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rocky%20Linux-10b981?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/CentOS%20Stream-262577?style=for-the-badge&logo=centos&logoColor=white"/>
+
+<!-- Automation -->
+<img src="https://img.shields.io/badge/Ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-3E474F?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<!-- Infra -->
+<img src="https://img.shields.io/badge/Systemd-2496ED?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/SELinux-1f2937?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firewalld-orange?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<!-- Containers -->
+<img src="https://img.shields.io/badge/Podman-892ca0?style=for-the-badge&logo=podman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<!-- Tooling -->
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+---
+
+# 🧰 **Certifications (Credly Badges)**  
+<div align="center">
+
+<!-- RHCSA -->
+<a href="https://www.credly.com/badges/b4f3bd85-2ea3-424c-b635-9b46b6e7abd9" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" width="120" alt="RHCSA Badge">
+</a>
+
+<!-- Add as you earn them -->
+<!-- Example: Red Hat Satellite Badge -->
 <!--
-**justintimejlew/justintimejlew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="YOUR_CREDLY_LINK" target="_blank">
+  <img src="BADGE_IMAGE_URL" width="120">
+</a>
 -->
+
+</div>
+
+---
+
+# 📂 **Highlighted Projects**
+> Pinned repos that showcase Linux + automation skill progression.
+
+### 🔹 **ansible-lab**  
+Playbooks & roles for provisioning, configuration, and system hardening.
+
+### 🔹 **sysadmin-ticket-log**  
+Documented issues, solutions, troubleshooting steps, SELinux denials, and LVM fixes.
+
+### 🔹 **homelab-infra**  
+Linux-based environment with automation workflows, containers, and system services.
+
+---
+
+# 🔥 **Currently Working On**
+- Advanced Ansible modules & roles  
+- Daily Linux troubleshooting documentation  
+- Building a reproducible homelab with GitOps workflows  
+- Strengthening Bash scripting for automation tasks 
+- Preparing for **RHCE**  
+
+---
+
+# 📊 **GitHub Metrics**
+
+<div align="center">
+
+<!-- Start of Pause
+
+### **🔥 Activity Overview**
+<img src="https://github-readme-stats.vercel.app/api?username=justintimejlew&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
+
+### **📈 Most Used Technologies**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justintimejlew&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+
+End of Pause -->
+
+### **⚡ Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=justintimejlew&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/justintimejlew">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/justintimejlew">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📈 **Content, but NEVER Complacent** 🚀
+
+</div>
