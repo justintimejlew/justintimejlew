@@ -3,17 +3,18 @@
   
 # 👋🏽 **Howdy!**
 ## My name is Justin, but you can call me J Lew!
-### **Linux System Administrator | Automation | RHEL | DevOps Foundations**
+### **Linux System Administrator | Automation | RHEL | Ansible | Bash | Cloud Infrastructure**
 
- Modern infrastructure. Clean automation. Enterprise reliability.  
- Documenting the journey, building the skills, and leveling up every day.
+Documenting my journey, building the skills, and leveling up every day.
+
+📈 Content, but NEVER Complacent 🚀
 
 </div>
 
 ---
 
-## 🚀 About  
-Linux System Administrator focused on Red Hat–based systems, automation, and infrastructure engineering.  
+## 👨🏽‍💻 About  
+Certified Linux System Administrator focused on Red Hat–based systems, automation, and infrastructure engineering.  
 Skilled in system administration, troubleshooting, configuration management, and secure operations.  
 Driven by a strong commitment to continuous learning, documentation, and operational excellence.
 
@@ -49,7 +50,7 @@ Driven by a strong commitment to continuous learning, documentation, and operati
 
 ---
 
-# 🧰 **Certifications (Credly Badges)**  
+# 🧰 **Certifications**  
 <div align="center">
 
 <!-- RHCSA -->
@@ -92,19 +93,17 @@ Linux-based environment with automation workflows, containers, and system servic
 
 ---
 
+<!-- Start of Pause
+
 # 📊 **GitHub Metrics**
 
 <div align="center">
-
-<!-- Start of Pause
 
 ### **🔥 Activity Overview**
 <img src="https://github-readme-stats.vercel.app/api?username=justintimejlew&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
 
 ### **📈 Most Used Technologies**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justintimejlew&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
-
-End of Pause -->
 
 ### **⚡ Contribution Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=justintimejlew&theme=tokyo-night&hide_border=true"/>
@@ -113,7 +112,7 @@ End of Pause -->
 
 ---
 
-# 🤝 Connect
+End of Pause -->
 
 <div align="center">
 
@@ -124,13 +123,5 @@ End of Pause -->
 <a href="https://www.linkedin.com/in/justintimejlew">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-  
-### 📈 **Content, but NEVER Complacent** 🚀
 
 </div>
