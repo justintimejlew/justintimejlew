@@ -52,16 +52,33 @@ Driven by a strong commitment to continuous learning, documentation, and operati
 
 <!-- RHCSA -->
 <a href="https://www.credly.com/badges/b4f3bd85-2ea3-424c-b635-9b46b6e7abd9" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" width="120" alt="RHCSA Badge">
+  <img src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" width="200" alt="RHCSA Badge">
 </a>
 
-<!-- Add as you earn them -->
-<!-- Example: Red Hat Satellite Badge -->
-<!--
-<a href="YOUR_CREDLY_LINK" target="_blank">
-  <img src="BADGE_IMAGE_URL" width="120">
+<!-- CompTIA Security+ -->
+<a href="https://www.credly.com/badges/3b1e8a5e-3528-40de-8899-31f16bede5c6" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="200" alt="CompTIA Security+ Badge">
 </a>
--->
+
+<!-- Google Cybersecurity Professional Certificate V2 -->
+<a href="https://www.credly.com/badges/f5cabd90-3cc4-4543-b126-26a94aa33e43" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="200" alt="Google Cybersecurity Professional Certificate V2 Badge">
+</a>
+
+<!-- Oracle Cloud Infrastructure 2025 Certified Foundations Associate -->
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9D226ECCA13D6F0CC26E643BD7592349E1D8D1B8CB8A4DC107625E4915BBB648" target="_blank">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" width="400" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate Badge">
+</a>
+
+<!-- AWS Cloud Quest: Cloud Practitioner -->
+<a href="https://www.credly.com/badges/c4356c9f-b734-4133-8e2c-365c5bb22485" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="200" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge">
+</a>
+
+<!-- 2025 Red Hat Technical Workshop - OpenShift AI -->
+<a href="https://www.credly.com/badges/8948e549-e882-453a-b538-aa43b72f5ce5" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/ae60f691-e113-4acd-9471-65753dedbbe5/blob" width="180" alt="2025 Red Hat Technical Workshop - OpenShift AI Badge">
+</a>
 
 </div>
 
