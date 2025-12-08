@@ -1,5 +1,4 @@
 <!-- Hero Section -->
-<div align="center">
   
 # 👋🏽 **Howdy!**
 ## My name is Justin, but you can call me J Lew!
@@ -8,8 +7,6 @@
 Documenting my journey, building the skills, and leveling up every day.
 
 📈 Content, but NEVER Complacent 🚀
-
-</div>
 
 ---
 
