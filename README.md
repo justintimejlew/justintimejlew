@@ -65,15 +65,14 @@ Driven by a strong commitment to continuous learning, documentation, and operati
   <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="200" alt="Google Cybersecurity Professional Certificate V2 Badge">
 </a>
 
+<!-- Oracle Cloud Infrastructure 2025 Certified Foundations Associate -->
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9D226ECCA13D6F0CC26E643BD7592349E1D8D1B8CB8A4DC107625E4915BBB648" target="_blank">
+  <img src="https://raw.githubusercontent.com/justintimejlew/justintimejlew/refs/heads/main/Oracle%20Cloud%20Infrastructure%202025%20Certified%20Foundations%20Associate.png" width="200" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate Badge">
+</a>
 
 <!-- AWS Cloud Quest: Cloud Practitioner -->
 <a href="https://www.credly.com/badges/c4356c9f-b734-4133-8e2c-365c5bb22485" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="200" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge">
-</a>
-
-<!-- Oracle Cloud Infrastructure 2025 Certified Foundations Associate -->
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9D226ECCA13D6F0CC26E643BD7592349E1D8D1B8CB8A4DC107625E4915BBB648" target="_blank">
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" width="400" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate Badge">
 </a>
 
 <!-- 2025 Red Hat Technical Workshop - OpenShift AI -->
