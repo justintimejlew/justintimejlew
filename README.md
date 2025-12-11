@@ -4,15 +4,14 @@
 ## My name is Justin, but you can call me J Lew!
 ### **Linux System Administrator | Automation | RHEL | Ansible | Bash | Cloud Infrastructure**
 
-**Documenting my journey, building the skills, and leveling up every day!**
+**Documenting my journey and leveling up my skills every day!**
 
-**📈 Content, but NEVER Complacent 🚀**
+**Content, but NEVER Complacent!**
 
 ---
 
-## 👨🏽‍💻 About  
-Certified Linux System Administrator focused on Red Hat–based systems, automation, and infrastructure engineering. Skilled in system administration, troubleshooting, configuration management, and secure operations. 
-Driven by a strong commitment to continuous learning, documentation, and operational excellence.
+# 👨🏽‍💻 **About**
+Certified Linux System Administrator focused on Red Hat–based systems, automation, and infrastructure engineering. Skilled in system administration, troubleshooting, configuration management, and secure operations. Driven by a strong commitment to continuous learning, documentation, and operational excellence.
 
 ---
 
@@ -66,7 +65,7 @@ Driven by a strong commitment to continuous learning, documentation, and operati
 
 <!-- Oracle Cloud Infrastructure 2025 Certified Foundations Associate -->
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9D226ECCA13D6F0CC26E643BD7592349E1D8D1B8CB8A4DC107625E4915BBB648" target="_blank">
-  <img src="https://raw.githubusercontent.com/justintimejlew/justintimejlew/refs/heads/main/Oracle%20Cloud%20Infrastructure%202025%20Certified%20Foundations%20Associate.png" width="180" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate Badge">
+  <img src="https://github.com/justintimejlew/justintimejlew/blob/main/Images/Oracle%20Cloud%20Infrastructure%202025%20Certified%20Foundations%20Associate.png?raw=true" width="180" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate Badge">
 </a>
 
 <!-- AWS Cloud Quest: Cloud Practitioner -->
