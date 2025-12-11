@@ -60,7 +60,7 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 
 <!-- Google Cybersecurity Professional Certificate V2 -->
 <a href="https://www.credly.com/badges/f5cabd90-3cc4-4543-b126-26a94aa33e43" target="_blank">
-  <img src="https://raw.githubusercontent.com/justintimejlew/justintimejlew/refs/heads/main/Google%20Cybersecurity%20Professional%20Certificate%20V2.png" width="180" alt="Google Cybersecurity Professional Certificate V2 Badge">
+  <img src="https://github.com/justintimejlew/justintimejlew/blob/main/Images/Google%20Cybersecurity%20Professional%20Certificate%20V2.png?raw=true" width="180" alt="Google Cybersecurity Professional Certificate V2 Badge">
 </a>
 
 <!-- Oracle Cloud Infrastructure 2025 Certified Foundations Associate -->
