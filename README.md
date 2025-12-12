@@ -104,7 +104,7 @@ Linux-based environment with automation workflows, containers, and system servic
 - Daily Linux troubleshooting documentation  
 - Building a reproducible homelab with GitOps workflows  
 - Preparing for ***Red Hat Certified Engineer*** certification
-  - <img src="https://github.com/justintimejlew/justintimejlew/blob/main/Images/LinkedIn%20Learning%20RHCE%20Cert%20Prep%201%20Certificate.png?raw=true" width="150" alt="LinkedIn Learning RHCE Cert Prep 1 Certificate">
+  - <img src="[https://github.com/justintimejlew/justintimejlew/blob/main/Images/LinkedIn%20Learning%20RHCE%20Cert%20Prep%201%20Certificate.png?raw=true](https://github.com/justintimejlew/justintimejlew/blob/main/Images/LinkedIn%20Learning%20RHCE%20Cert%20Prep%201%20Certificate.png?raw=true)" width="300" alt="LinkedIn Learning RHCE Cert Prep 1 Certificate">
 
 ---
 
