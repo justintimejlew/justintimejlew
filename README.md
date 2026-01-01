@@ -83,26 +83,30 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 ---
 
 # 📂 **Highlighted Projects**
-> The following repos are a work in progress or will be updated in the near future.
 
 ### 🔹 **SysAdmin Ticket Log**
 Detailed documentation for my resolved tickets regarding Linux system administration, automation, networking, security hardening, DevOps tooling, monitoring, cloud, and configuration management. Some info has been redacted to prevent network exposure.
 
 [![Sysadmin Ticket Log](https://img.shields.io/badge/➤_Click_To_View_Tickets-blue?style=for-the-badge&logo=)](https://github.com/justintimejlew/sysadmin-ticket-log#sysadmin-ticket-log)
 
-### 🔹 **Ansible Lab**  
+### 🔹 **AWS Cloud Projects**  
+➤  [**Lab 1: EC2 Web Server**](./1-AWS-Web-Server-EC2) - Deploy and configure a custom Apache web server on Amazon EC2 using core AWS services.
+
+> The following are a work in progress in will be updated in the near future.
+
+### 🔹 **Ansible Lab**
 Playbooks & roles for provisioning, configuration, and system hardening.
 
-### 🔹 **Homelab Infra**  
+### 🔹 **Homelab Infra**
 Linux-based environment with automation workflows, containers, and system services.
 
 ---
 
 # 🔥 **Currently Working On**
 - Strengthening Bash scripting for automation tasks on **[bashtothefuture](https://github.com/jordanhall-it/bashtothefuture)** (collaborator)
-- Advanced Ansible modules & roles  
-- Daily Linux troubleshooting documentation  
-- Building a reproducible homelab with GitOps workflows  
+- AWS Cloud projects to prepare for ***AWS Certified Cloud Practitioner*** exam
+- Advanced Ansible modules & roles
+- Building a reproducible homelab with GitOps workflows
 - Preparing for ***Red Hat Certified Engineer*** certification
 
 <div align="center">  
