@@ -90,7 +90,7 @@ Detailed documentation for my resolved tickets regarding Linux system administra
 [![Sysadmin Ticket Log](https://img.shields.io/badge/➤_Click_To_View_Tickets-blue?style=for-the-badge&logo=)](https://github.com/justintimejlew/sysadmin-ticket-log#sysadmin-ticket-log)
 
 ### 🔹 **AWS Cloud Projects**  
-➤  [**Lab 1: EC2 Web Server**](./1-AWS-Web-Server-EC2) - Deploy and configure a custom Apache web server on Amazon EC2 using core AWS services.
+➤  [**Lab 1: EC2 Web Server**](https://github.com/justintimejlew/1-AWS-Web-Server-EC2) - Deploy and configure a custom Apache web server on Amazon EC2 using core AWS services.
 
 > The following are a work in progress in will be updated in the near future.
 
