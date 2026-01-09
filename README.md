@@ -20,18 +20,21 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 
 <!-- OS -->
 <img src="https://img.shields.io/badge/RHEL-cc0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rocky%20Linux-10b981?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/CentOS%20Stream-262577?style=for-the-badge&logo=centos&logoColor=white"/>
 
 <!-- Automation -->
-<img src="https://img.shields.io/badge/Ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-3E474F?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <!-- Infra -->
-<img src="https://img.shields.io/badge/Systemd-2496ED?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/SELinux-1f2937?style=for-the-badge&logo=security&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firewalld-orange?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=systemd&logoColor=white"/>
+<img src="https://img.shields.io/badge/SELinux-CC0000?style=for-the-badge&logo=selinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/firewalld-FF6F00?style=for-the-badge&logo=firewalld&logoColor=white"/>
+
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <!-- Containers -->
 <img src="https://img.shields.io/badge/Podman-892ca0?style=for-the-badge&logo=podman&logoColor=white"/>
