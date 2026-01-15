@@ -87,6 +87,8 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 
 # 📂 **Highlighted Projects**
 
+> Completed Projects:
+
 ### 🔹 **SysAdmin Ticket Log**
 Detailed documentation for my resolved tickets regarding Linux system administration, automation, networking, security hardening, DevOps tooling, monitoring, cloud, and configuration management. Some info has been redacted to prevent network exposure.
 
@@ -95,13 +97,14 @@ Detailed documentation for my resolved tickets regarding Linux system administra
 ### 🔹 **AWS Cloud Projects**  
 ➤  [**Lab 1: EC2 Web Server**](https://github.com/justintimejlew/1-AWS-Web-Server-EC2) - Deploy and configure a custom Apache web server on Amazon EC2 using core AWS services.
 
-> The following are a work in progress in will be updated in the near future.
+> Work in Progress Projects:
 
 ### 🔹 **Ansible Lab**
 Playbooks & roles for provisioning, configuration, and system hardening.
 
 ### 🔹 **Homelab Infra**
-Linux-based environment with automation workflows, containers, and system services.
+
+➤  [**Enterprise Multi-Node Ansible Automation**](https://github.com/justintimejlew/enterprise-multi-node-ansible-automation-on-aws) - Automated configuration management lab using RHEL/CentOS Stream 9 with an Ansible control node and multiple managed nodes hosted on AWS Cloud Infrastructure.
 
 ---
 
