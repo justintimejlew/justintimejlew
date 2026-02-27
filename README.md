@@ -22,6 +22,7 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 <img src="https://img.shields.io/badge/RHEL-cc0000?style=for-the-badge&logo=redhat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/CentOS%20Stream-262577?style=for-the-badge&logo=centos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox&logoColor=white)"/>
 
 <!-- Automation -->
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
