@@ -1,7 +1,10 @@
 <!-- Hero Section -->
   
 # 👋🏽 **Howdy!**
-## My name is Justin, but you can call me J Lew!
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=600&size=45&pause=1000&color=63188F&center=true&vCenter=true&width=850&lines=My+name+is+Justin%2C+but+you+can+call+me+J+Lew!;Linux+System+Administrator+from+Houston" alt="Linux System Administrator"></a>
+</div>
+
 ### **Linux System Administrator | Automation | RHEL | Ansible | Bash | Cloud Infrastructure**
 
 **Documenting my journey and leveling up my skills every day!**
@@ -11,7 +14,11 @@
 ---
 
 # 👨🏽‍💻 **About**
+
 Certified Linux System Administrator focused on Red Hat–based systems, automation, and infrastructure engineering. Skilled in system administration, troubleshooting, configuration management, and secure operations. Driven by a strong commitment to continuous learning, documentation, and operational excellence.
+
+<a href="https://www.linkedin.com/in/justintimejlew">
+  <img src="https://img.shields.io/badge/Follow me on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
@@ -124,31 +131,16 @@ Playbooks & roles for provisioning, configuration, and system hardening.
 
 ---
 
-<!-- Start of Pause
-
-# 📊 **GitHub Metrics**
+# 📊 **GitHub Metrics:** <img src="https://komarev.com/ghpvc/?username=justintimejlew&label=Profile%20views&color=63188F&style=flat" alt="Justin-Lewis" />
 
 <div align="center">
-
-### **🔥 Activity Overview**
-<img src="https://github-readme-stats.vercel.app/api?username=justintimejlew&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
-
-### **📈 Most Used Technologies**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justintimejlew&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
-
-### **⚡ Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=justintimejlew&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-End of Pause -->
+  
+[![J Lew's GitHub stats](https://github-readme-stats.vercel.app/api?username=justintimejlew&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>  
 
 <div align="center">
-
-<p><a href="https://www.linkedin.com/in/justintimejlew">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a></p>
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintimejlew&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
