@@ -134,13 +134,14 @@ Playbooks & roles for provisioning, configuration, and system hardening.
 # 📊 **GitHub Metrics:** <img src="https://komarev.com/ghpvc/?username=justintimejlew&label=Profile%20views&color=63188F&style=flat" alt="Justin-Lewis" />
 
 <div align="center">
-  
+
+![J Lew's GitHub stats](https://github-readme-stats-zeta-five-93.vercel.app/api?username=justintimejlew&theme=midnight-purple)
+
+![Top Langs](https://github-readme-stats-zeta-five-93.vercel.app/api/top-langs/?username=justintimejlew&layout=compact&theme=midnight-purple)
+
+<!-- Original Link prior to self hosting
 [![J Lew's GitHub stats](https://github-readme-stats.vercel.app/api?username=justintimejlew&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>  
-
-<div align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintimejlew&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-  
+-->    
 </div>
