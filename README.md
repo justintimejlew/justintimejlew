@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=600&size=45&pause=1000&color=63188F&center=true&vCenter=true&width=850&lines=My+name+is+Justin%2C+but+you+can+call+me+J+Lew!;Linux+System+Administrator+from+Houston" alt="Linux System Administrator"></a>
 </div>
 
-### **Linux System Administrator | Automation | RHEL | Ansible | Bash | Cloud Infrastructure**
+### **DevOps Engineer | Linux | Kubernetes | Ansible | Cloud Infrastructure | RHCE Candidate**
 
 **Documenting my journey and leveling up my skills every day!**
 
@@ -15,7 +15,7 @@
 
 # 👨🏽‍💻 **About**
 
-Certified Linux System Administrator focused on Red Hat–based systems, automation, and infrastructure engineering. Skilled in system administration, troubleshooting, configuration management, and secure operations. Driven by a strong commitment to continuous learning, documentation, and operational excellence.
+Linux Systems Administrator and DevOps engineer pursuing the CKA, with a foundation in Red Hat–based systems, automation, and container orchestration. Experienced in system administration, Ansible automation, and infrastructure engineering with hands-on Kubernetes and Docker experience. Committed to continuous learning and building production-grade skills through structured, lab-driven practice.
 
 <a href="https://www.linkedin.com/in/justintimejlew">
   <img src="https://img.shields.io/badge/Follow me on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -28,7 +28,6 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 <!-- OS -->
 <img src="https://img.shields.io/badge/RHEL-cc0000?style=for-the-badge&logo=redhat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/CentOS%20Stream-262577?style=for-the-badge&logo=centos&logoColor=white"/>
 <img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox&logoColor=white)"/>
 
 <!-- Automation -->
@@ -50,7 +49,7 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 
 <!-- Tooling -->
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
 
 </div>
 
@@ -69,21 +68,6 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
   <img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="180" alt="CompTIA Security+ Badge">
 </a>
 
-<!-- Google Cybersecurity Professional Certificate V2 -->
-<a href="https://www.credly.com/badges/f5cabd90-3cc4-4543-b126-26a94aa33e43" target="_blank">
-  <img src="https://github.com/justintimejlew/justintimejlew/blob/main/Images/Google%20Cybersecurity%20Professional%20Certificate%20V2.png?raw=true" width="180" alt="Google Cybersecurity Professional Certificate V2 Badge">
-</a>
-
-<!-- Oracle Cloud Infrastructure 2025 Certified Foundations Associate -->
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9D226ECCA13D6F0CC26E643BD7592349E1D8D1B8CB8A4DC107625E4915BBB648" target="_blank">
-  <img src="https://github.com/justintimejlew/justintimejlew/blob/main/Images/Oracle%20Cloud%20Infrastructure%202025%20Certified%20Foundations%20Associate.png?raw=true" width="180" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate Badge">
-</a>
-
-<!-- AWS Cloud Quest: Cloud Practitioner -->
-<a href="https://www.credly.com/badges/c4356c9f-b734-4133-8e2c-365c5bb22485" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="180" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge">
-</a>
-
 <!-- 2025 Red Hat Technical Workshop - OpenShift AI -->
 <a href="https://www.credly.com/badges/8948e549-e882-453a-b538-aa43b72f5ce5" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/ae60f691-e113-4acd-9471-65753dedbbe5/blob" width="150" alt="2025 Red Hat Technical Workshop - OpenShift AI Badge">
@@ -97,30 +81,29 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 
 > Completed Projects:
 
+### 🔹 **Homelab Infra**
+
+➤  [**Enterprise Multi-Node Ansible Automation**](https://github.com/justintimejlew/enterprise-multi-node-ansible-automation-on-aws) - Automated configuration management using RHEL/CentOS Stream 9 with an Ansible control node and managed nodes hosted on AWS.
+
 ### 🔹 **SysAdmin Ticket Log**
-Detailed documentation for my resolved tickets regarding Linux system administration, automation, networking, security hardening, DevOps tooling, monitoring, cloud, and configuration management. Some info has been redacted to prevent network exposure.
+Production-style documentation of resolved tickets spanning Linux administration, automation, security hardening, networking, and cloud infrastructure. Some details redacted to prevent network exposure.
 
 [![Sysadmin Ticket Log](https://img.shields.io/badge/➤_Click_To_View_Tickets-blue?style=for-the-badge&logo=)](https://github.com/justintimejlew/sysadmin-ticket-log#sysadmin-ticket-log)
 
 ### 🔹 **AWS Cloud Projects**  
-➤  [**Lab 1: EC2 Web Server**](https://github.com/justintimejlew/1-AWS-Web-Server-EC2) - Deploy and configure a custom Apache web server on Amazon EC2 using core AWS services.
+➤  [**Lab 1: EC2 Web Server**](https://github.com/justintimejlew/1-AWS-Web-Server-EC2) - Deployed and configured a custom Apache web server on Amazon EC2 using core AWS services.
 
 > Work in Progress Projects:
 
 ### 🔹 **Ansible Lab**
-Playbooks & roles for provisioning, configuration, and system hardening.
-
-### 🔹 **Homelab Infra**
-
-➤  [**Enterprise Multi-Node Ansible Automation**](https://github.com/justintimejlew/enterprise-multi-node-ansible-automation-on-aws) - Automated configuration management lab using RHEL/CentOS Stream 9 with an Ansible control node and multiple managed nodes hosted on AWS Cloud Infrastructure.
+Playbooks and roles for provisioning, configuration management, and system hardening.
 
 ---
 
 # 🔥 **Currently Working On**
-- Strengthening Bash scripting for automation tasks on **[bashtothefuture](https://github.com/jordanhall-it/bashtothefuture)** (collaborator)
-- AWS Cloud projects to prepare for ***AWS Certified Cloud Practitioner*** exam
-- Advanced Ansible modules & roles
-- Building a reproducible homelab with GitOps workflows
+- Pursuing the Certified Kubernetes Administrator (CKA) through the KubeCraft Career Accelerator
+- Building a reproducible homelab with Proxmox, Docker, Kubernetes, and CI/CD workflows
+- Advancing Ansible automation with playbooks, roles, and configuration management
 - Preparing for ***Red Hat Certified Engineer*** certification
 
 <div align="center">  
