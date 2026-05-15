@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=600&size=45&pause=1000&color=63188F&center=true&vCenter=true&width=850&lines=My+name+is+Justin%2C+but+you+can+call+me+J+Lew!;Linux+System+Administrator+from+Houston" alt="Linux System Administrator"></a>
 </div>
 
-### **DevOps Engineer | Linux | Kubernetes | Ansible | Cloud Infrastructure | RHCE Candidate**
+### **Linux Engineer | Linux | Kubernetes | Ansible | Cloud Infrastructure**
 
 **Documenting my journey and leveling up my skills every day!**
 
@@ -15,7 +15,7 @@
 
 # 👨🏽‍💻 **About**
 
-Linux Systems Administrator and DevOps engineer pursuing the CKA, with a foundation in Red Hat–based systems, automation, and container orchestration. Experienced in system administration, Ansible automation, and infrastructure engineering with hands-on Kubernetes and Docker experience. Committed to continuous learning and building production-grade skills through structured, lab-driven practice.
+Red Hat Certified Engineer and Linux Systems Administrator and  pursuing the CKA, with a foundation in Red Hat–based systems, automation, and container orchestration. Experienced in system administration, Ansible automation, and infrastructure engineering with hands-on Kubernetes and Docker experience. Committed to continuous learning and building production-grade skills through structured, lab-driven practice.
 
 <a href="https://www.linkedin.com/in/justintimejlew">
   <img src="https://img.shields.io/badge/Follow me on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -57,6 +57,11 @@ Linux Systems Administrator and DevOps engineer pursuing the CKA, with a foundat
 
 # 🧰 **Certifications**  
 <div align="center">
+
+<!-- RHCE -->
+<a href="https://www.credly.com/badges/fa3d1005-e3c9-4e73-a4af-3c1d1cb21c18" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/bea533f4-c585-4240-9b7f-3d20c4fdb489/blob" width="180" alt="RHCE Badge">
+</a>
 
 <!-- RHCSA -->
 <a href="https://www.credly.com/badges/b4f3bd85-2ea3-424c-b635-9b46b6e7abd9" target="_blank">
@@ -101,16 +106,9 @@ Playbooks and roles for provisioning, configuration management, and system harde
 ---
 
 # 🔥 **Currently Working On**
-- Pursuing the Certified Kubernetes Administrator (CKA) through the KubeCraft Career Accelerator
+- Pursuing the Certified Kubernetes Administrator (CKA) through the KubeCraft Career Accelerator program
 - Building a reproducible homelab with Proxmox, Docker, Kubernetes, and CI/CD workflows
 - Advancing Ansible automation with playbooks, roles, and configuration management
-- Preparing for ***Red Hat Certified Engineer*** certification
-
-<div align="center">  
-
-  <img src="https://github.com/justintimejlew/justintimejlew/blob/main/Images/LinkedIn%20Learning%20RHCE%20Cert%20Prep%201%20Certificate.png?raw=true" width="500" alt="LinkedIn Learning RHCE Cert Prep 1 Certificate">
-
-</div>
 
 ---
 
