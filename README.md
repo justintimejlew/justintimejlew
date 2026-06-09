@@ -34,6 +34,7 @@ Red Hat Certified Engineer and Linux Systems Administrator and  pursuing the CKA
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <!-- Infra -->
 <img src="https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=systemd&logoColor=white"/>
