@@ -1,0 +1,67 @@
+<svg width="760" height="400" viewBox="0 0 760 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#14102b"/>
+    </linearGradient>
+    <linearGradient id="ascii" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#63188F"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="760" height="400" rx="10" fill="url(#bg)"/>
+  <rect x="0" y="0" width="760" height="34" rx="10" fill="#1c1730"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="380" y="22" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#8b8fa3">jlew@devops: ~</text>
+
+  <text x="30" y="70" font-family="Menlo, Consolas, monospace" font-size="13" fill="url(#ascii)" xml:space="preserve">
+    <tspan x="30" dy="0">              .-/+oossssoo+/-.</tspan>
+    <tspan x="30" dy="16">          `:+ssssssssssssssssss+:`</tspan>
+    <tspan x="30" dy="16">        -+sssssssssssssssssyyssss+-</tspan>
+    <tspan x="30" dy="16">      .ossssssssssssssssssdMMMNysssso.</tspan>
+    <tspan x="30" dy="16">     /ssssssssssshdmmNNmmyNMMMMhssssss/</tspan>
+    <tspan x="30" dy="16">    +sssssssssshmydMMMMMMMNddddyssssssss+</tspan>
+    <tspan x="30" dy="16">   /sssssssssshNMMMyhhyyyyhmNMMMNhssssssss/</tspan>
+    <tspan x="30" dy="16">  .ssssssssssdMMMNhsssssssssshNMMMdssssssss.</tspan>
+    <tspan x="30" dy="16">  +sssshhhyNMMNyssssssssssssyNMMMysssssss+</tspan>
+    <tspan x="30" dy="16">  ossyNMMMNyMMhsssssssssssssshmmmhssssssso</tspan>
+    <tspan x="30" dy="16">  ossyNMMMNyMMhsssssssssssssshmmmhssssssso</tspan>
+    <tspan x="30" dy="16">  +sssshhhyNMMNyssssssssssssyNMMMysssssss+</tspan>
+    <tspan x="30" dy="16">  .ssssssssssdMMMNhsssssssssshNMMMdssssssss.</tspan>
+    <tspan x="30" dy="16">   /sssssssssshNMMMyhhyyyyhdNMMMNhssssssss/</tspan>
+    <tspan x="30" dy="16">    +sssssssssshmydMMMMMMMNddddyssssssss+</tspan>
+    <tspan x="30" dy="16">     /ssssssssssshdmmNNmmyNMMMMhssssss/</tspan>
+    <tspan x="30" dy="16">      .ossssssssssssssssssdMMMNysssso.</tspan>
+    <tspan x="30" dy="16">        -+sssssssssssssssssyyyssss+-</tspan>
+    <tspan x="30" dy="16">          `:+ssssssssssssssssss+:`</tspan>
+    <tspan x="30" dy="16">              .-/+oossssoo+/-.</tspan>
+  </text>
+
+  <text x="430" y="70" font-family="Menlo, Consolas, monospace" font-size="14" xml:space="preserve">
+    <tspan x="430" dy="0" fill="#a78bfa" font-weight="bold">jlew@devops</tspan>
+    <tspan x="430" dy="18" fill="#4c9eff">-------------</tspan>
+    <tspan x="430" dy="22"><tspan fill="#a78bfa" font-weight="bold">OS: </tspan><tspan fill="#c9d1d9">RHEL 7/8/9/10 / Rocky Linux 10</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Host: </tspan><tspan fill="#c9d1d9">Homelab (Thinkpad and Proxmox Cluster)</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Kernel: </tspan><tspan fill="#c9d1d9">5.14.0-Enterprise</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Uptime: </tspan><tspan fill="#c9d1d9">Always Learning</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Shell: </tspan><tspan fill="#c9d1d9">bash / zsh</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Role: </tspan><tspan fill="#c9d1d9">Linux Systems Administrator</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Certs: </tspan><tspan fill="#c9d1d9">RHCE, RHCSA, Security+</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Stack: </tspan><tspan fill="#c9d1d9">Ansible, Docker, K3s, AWS</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Focus: </tspan><tspan fill="#c9d1d9">CKA in progress</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Editor: </tspan><tspan fill="#c9d1d9">vim</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">WM: </tspan><tspan fill="#c9d1d9">tmux</tspan></tspan>
+  </text>
+
+  <g transform="translate(430,360)">
+    <rect width="16" height="16" fill="#63188F"/>
+    <rect x="16" width="16" height="16" fill="#7c3aed"/>
+    <rect x="32" width="16" height="16" fill="#4c9eff"/>
+    <rect x="48" width="16" height="16" fill="#2563eb"/>
+    <rect x="64" width="16" height="16" fill="#1e3a8a"/>
+    <rect x="80" width="16" height="16" fill="#0d1117" stroke="#3b3b52"/>
+  </g>
+</svg>
