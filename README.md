@@ -89,7 +89,7 @@ Red Hat Certified Engineer and Linux Systems Administrator pursuing the CKA, wit
 # 📂 **Working Projects**
 
 ### 🔹 **Homelab Infra**
-➤  [**Thinkpad Kubernetes Cluster**](https://github.com/justintimejlew/enterprise-multi-node-ansible-automation-on-aws) - GitOps Configuration and documentation of my Kubernetes homelab running on my Thinkpad T480.
+➤  [**Thinkpad Kubernetes Cluster**](https://github.com/justintimejlew/thinkpad-cluster) - GitOps Configuration and documentation of my Kubernetes homelab running on my Thinkpad T480.
 
 ➤  [**Enterprise Multi-Node Ansible Automation**](https://github.com/justintimejlew/enterprise-multi-node-ansible-automation-on-aws) - Automated configuration management using RHEL/CentOS Stream 9 with an Ansible control node and managed nodes hosted on AWS.
 
