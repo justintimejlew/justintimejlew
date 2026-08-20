@@ -13,7 +13,7 @@
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/justintimejlew/justintimejlew/main/Images/neofetch.svg" alt="neofetch" width="700"/>
+  <img src="https://raw.githubusercontent.com/justintimejlew/justintimejlew/main/Images/neofetch.svg" alt="neofetch" width="100%"/>
 </div>
 
 ---
