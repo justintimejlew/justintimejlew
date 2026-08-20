@@ -44,7 +44,7 @@
     <tspan x="430" dy="0" fill="#a78bfa" font-weight="bold">jlew@devops</tspan>
     <tspan x="430" dy="18" fill="#4c9eff">-------------</tspan>
     <tspan x="430" dy="22"><tspan fill="#a78bfa" font-weight="bold">OS: </tspan><tspan fill="#c9d1d9">RHEL 7/8/9/10 / Rocky Linux 10</tspan></tspan>
-    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Host: </tspan><tspan fill="#c9d1d9">Homelab (Thinkpad and Proxmox Cluster)</tspan></tspan>
+    <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Host: </tspan><tspan fill="#c9d1d9">Homelab (Thinkpad Cluster)</tspan></tspan>
     <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Kernel: </tspan><tspan fill="#c9d1d9">5.14.0-Enterprise</tspan></tspan>
     <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Uptime: </tspan><tspan fill="#c9d1d9">Always Learning</tspan></tspan>
     <tspan x="430" dy="20"><tspan fill="#a78bfa" font-weight="bold">Shell: </tspan><tspan fill="#c9d1d9">bash / zsh</tspan></tspan>
