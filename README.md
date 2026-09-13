@@ -2,7 +2,7 @@
 
 # 👋🏽 **Howdy!**
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=800&size=45&pause=1000&color=63188F&center=true&vCenter=true&width=850&height=60&lines=My+name+is+Justin%2C+but+you+can+call+me+J+Lew!;Linux+System+Administrator+from+Houston;RHCE+%7C+RHCSA+%7C+Future+CKA" alt="Linux System Administrator"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=800&size=45&pause=1000&color=63188F&center=true&vCenter=true&width=850&height=80&lines=My+name+is+Justin%2C+but+you+can+call+me+J+Lew!;Linux+System+Administrator+from+Houston;RHCE+%7C+RHCSA+%7C+Future+CKA" alt="Linux System Administrator"></a>
 </div>
 
 ### **Linux Engineer | Kubernetes | Ansible | Cloud Infrastructure**
@@ -65,15 +65,15 @@ Red Hat Certified Engineer and Linux Systems Administrator pursuing the CKA, wit
 <div align="center">
 
 <!-- RHCE -->
-<a href="https://www.credly.com/badges/fa3d1005-e3c9-4e73-a4af-3c1d1cb21c18" target="_blank"> <img src="https://images.credly.com/size/680x680/images/bea533f4-c585-4240-9b7f-3d20c4fdb489/blob" width="150" alt="RHCE Badge"> </a>
-<!-- RHCSA -->
+<a href="https://www.credly.com/badges/fa3d1005-e3c9-4e73-a4af-3c1d1cb21c18" target="_blank"> <img src="https://images.credly.com/size/680x680/images/bea533f4-c585-4240-9b7f-3d20c4fdb489/blob" width="200" alt="RHCE Badge"> </a>
 
+<!-- RHCSA -->
 <a href="https://www.credly.com/badges/b4f3bd85-2ea3-424c-b635-9b46b6e7abd9" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" width="150" alt="RHCSA Badge"> </a>
+  <img src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" width="200" alt="RHCSA Badge"> </a>
 
 <!-- CompTIA Security+ -->
 <a href="https://www.credly.com/badges/3b1e8a5e-3528-40de-8899-31f16bede5c6" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="150" alt="CompTIA Security+ Badge"> </a>
+  <img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="250" alt="CompTIA Security+ Badge"> </a>
 
 </div>
 
