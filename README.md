@@ -2,7 +2,7 @@
 
 # 👋🏽 **Howdy!**
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=800&size=45&pause=1000&color=63188F&center=true&vCenter=true&width=850&height=80&lines=My+name+is+Justin%2C+but+you+can+call+me+J+Lew!;Certified+Linux+Engineer+from+Houston, TX 🚀;RHCE+%7C+RHCSA+%7C+Future+CKA" alt="Certified Linux Engineer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=800&size=45&pause=1000&color=63188F&center=true&vCenter=true&width=850&height=80&lines=My+name+is+Justin%2C+but+you+can+call+me+J+Lew!;Certified+Linux+Engineer+from+Houston,+TX+🚀;RHCE+%7C+RHCSA+%7C+Future+CKA" alt="Certified Linux Engineer"></a>
 </div>
 
 ### **Certified Linux Engineer | Kubernetes | Ansible | Cloud Infrastructure**
